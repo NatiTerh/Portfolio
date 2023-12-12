@@ -1,0 +1,58 @@
+*{
+    margin: 0;
+    padding: 0;
+   
+}
+
+
+html {
+    background: url(pics/23.png);
+    background-size: cover;  
+}
+
+.contact {
+    text-align: left;
+    margin-left: 2000px;
+    font-size: 80px;
+    color: #EEEEEE;
+}
+.contact p {
+    margin-top: 40px;
+}
+
+.mainform {
+    padding-top: 20px;
+    margin-left: 2000px;
+}
+
+input {
+    width: 1200px;
+    height: 120px;
+    font-size: 80px;
+}
+
+textarea {
+    width: 1200px;
+    height: 400px;
+}
+#container {
+    color: #EEEEEE;
+    font-size: 80px;
+    margin-top: 200px;
+	width: 1500px;
+    height: 900px;
+	-webkit-birder-radius: 6px;
+	-moz-border-radius: 6px;
+	 border-radius: 6px; }
+
+
+     .email {
+        padding-top: 20px;
+     }
+     .msg {
+        padding-top: 20px;
+     }
+
+     .send {
+        padding-top: 20px;
+     }
